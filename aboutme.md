@@ -1,16 +1,14 @@
 ---
 layout: page
-title: 맞춤형복지팀에 대해서
-subtitle: Why you'd want to go on a date with me
+title: 맞춤형복지팀이란?
+subtitle: 도움이 필요한 주민을 발굴하고, 장애인 노인 등 거동이 어려운 주민들을 찾아가 상담하는 서비스를 제공
 ---
 
-My name is Inigo Montoya. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### 주요업무
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+-복지사각지대 발굴
+-지역특화사업 추진[(갈현권역 나눔가게 기부릴레이)](https://galhyuncc.github.io/about/)
+-찾아가는 복지상담
+-통합사례관리
+-민관협력과 자원관리
