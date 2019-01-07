@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: 맞춤형복지팀에 대해서
 subtitle: Why you'd want to go on a date with me
 ---
 
